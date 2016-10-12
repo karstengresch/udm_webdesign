@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"manager-gui"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gem",
+				"Gem Browser: List Gems"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"GitSavvy: help"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"js",
+				"Indent JSON"
+			],
+			[
+				"JSON",
+				"Indent JSON"
+			],
+			[
+				"j",
+				"Indent JSON"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"jso",
+				"Indent JSON"
+			],
+			[
+				"schem",
+				"Validate Schema"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"xp",
+				"XPath: Copy path to clipboard"
+			],
+			[
+				"xpa",
+				"XPath: Copy path to clipboard"
+			],
+			[
+				"x",
+				"Indent XML"
+			],
+			[
+				"xpath",
+				"XPath: Copy path to clipboard"
+			],
+			[
+				"Pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"index",
+				"Indent XML"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/karsten/Dropbox/dev/ws/macpro01/brackets/Udemy/webdesign_q2_2015"
+	],
+	"file_history":
+	[
+		"/Users/karsten/Dropbox/dev/ws/macpro01/brackets/Udemy/webdesign_q2_2015/omnifood/vendors/css/grid.css",
+		"/Users/karsten/none/home/sieve/kg_sieve.sieve",
+		"/Users/karsten/Downloads/proditiftp001@proditi.com.duck",
+		"/Users/karsten/none/home/.Maildir/fetchmail.log",
+		"/Users/karsten/none/home/.Maildir/dovecot-deliver.log",
+		"/Users/karsten/Downloads/Secure proditi0@proditi.com.duck",
+		"/Users/karsten/Downloads/_work/2015_SAG.sublime-project",
+		"/Users/karsten/Dropbox/dev/ws/macpro01/platypi/getting-started/public/services/products/products.service.ts",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/Users/karsten/Dropbox/dev/ws/macpro01/platypi/getting-started/public/services/user/user.service.js.map",
+		"/Users/karsten/Dropbox/dev/ws/macpro01/platypi/getting-started/public/factories/models.d.ts",
+		"/Users/karsten/Dropbox/dev/ws/macpro01/platypi/getting-started/public/common/css/main.less",
+		"/Users/karsten/Dropbox/dev/ws/macpro01/platypi/getting-started/public/services/base/base.service.ts",
+		"/Users/karsten/Dropbox/dev/ws/macpro01/platypi/getting-started/public/services/user/user.service.ts",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/User/Typescript.sublime-build",
+		"/Users/karsten/Downloads/dovecot.sieve",
+		"/Users/karsten/Dropbox/dev/ws/macpro01/platypi/getting-started/public/_references.d.ts",
+		"/Users/karsten/none/home/.Maildir/procmail.log",
+		"/Users/karsten/Desktop/sender_access",
+		"/Users/karsten/Downloads/20150414_Export/medien.xml",
+		"/Users/karsten/Dropbox/dev/ws/macpro01/intellij/mediaplatform/gwydyon_2015/build-development.cmd",
+		"/Users/karsten/tmp/README.md",
+		"/Users/karsten/Desktop/staedel_extension/getCoronaObjects-rsp_1.1.json",
+		"/Users/karsten/none/home/.Maildir/dovecot-deliver-errors.log",
+		"/Users/karsten/Downloads/optware.sh",
+		"/Users/karsten/Downloads/maillog",
+		"/Users/karsten/Dropbox/dev/ws/_obsolete/sag_mckar/e/jee35/Quintett/src/main/java/org/gresch/quintett/service/untitled.xml",
+		"/Users/karsten/none/netz/dokumente/cornelia_und_karsten/2015-04-01_Steuer_2014_online.txt",
+		"/Users/karsten/Documents/ioio/main.css",
+		"/Users/karsten/Dropbox/dev/ws/_obsolete/sag_mckar/e/jee35/Quintett/src/main/java/org/gresch/quintett/service/TonServiceImpl.java",
+		"/Users/karsten/Downloads/bitfountain_dl/bitfountain.py",
+		"/Users/karsten/Downloads/bitfountain_dl/cookies.txt",
+		"/Users/karsten/Dropbox/dev/ws/w701/c372/Quintett/src/main/java/org/gresch/quintett/service/TonServiceImpl.java",
+		"/Users/karsten/Downloads/bitfountain_dl/downloads.sh",
+		"/Users/karsten/Desktop/.user.ini",
+		"/Users/karsten/Pictures/3D/pz3/Stephanie_Gabi_2.pz3",
+		"/Users/karsten/Pictures/3D/pz3/Untitled4a.pz3",
+		"/Applications/IntelliJ IDEA 14.app/Contents/Info.plist",
+		"/Users/karsten/Downloads/SuperSafeLicense.dat",
+		"/Users/karsten/Library/Caches/Cleanup At Startup/Transmit/432FCAD3-43B4-4325-B9FA-2178473E28D9/wp-config.php",
+		"/Users/karsten/Library/Caches/com.binarynights.ForkLift2/1/D3D_TanLine_V4_ReadMe.txt",
+		"/Users/karsten/Library/Caches/Cleanup At Startup/Transmit/A4375C53-9050-4DC7-8828-C89EECE0A4AC/.htaccess",
+		"/Users/karsten/Library/Caches/Cleanup At Startup/Transmit/FFAF7B94-8F58-412B-A1F8-EACA41BD87A5/.htaccess",
+		"/private/var/folders/8s/zf46l0p94ms2k5q_2jpy1w6r0000gn/T/.entp.twKYIj/0/README.txt",
+		"/Users/karsten/Downloads/Fixel Contrastica 2 PS/README.txt",
+		"/private/var/folders/8s/zf46l0p94ms2k5q_2jpy1w6r0000gn/T/.entp.UROAZH/0/mediaplatform-tdump.txt",
+		"/Users/karsten/Desktop/staedel_extension/_export/museum.staedel.export.zip Ordner/objekte.xml",
+		"/Users/karsten/Desktop/staedel_extension/getCoronaObjects.txt",
+		"/Users/karsten/Desktop/staedel_extension/museum.staedel.export/objekte.xml",
+		"/Users/karsten/none/home/sieve/filters/README.txt",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/medien.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/objekte.xml",
+		"/Users/karsten/Desktop/Enpass_2015-02-19_09-15-21.txt",
+		"/Users/karsten/Dropbox/2014_Abschluss_Q3.txt",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/adlib-iconclass.xml",
+		"/Users/karsten/Desktop/adlib-iconclass.xml",
+		"/private/var/folders/8s/zf46l0p94ms2k5q_2jpy1w6r0000gn/T/com.microsoft.Outlook/Outlook_MessageSource_2015-02-25 12:06:12 +0000_0",
+		"/Users/karsten/Desktop/staedel_extension/medien.xml",
+		"/Users/karsten/dev/tc/8.0.15/webapps/resources/WEB-INF/web.xml",
+		"/Users/karsten/Desktop/staedel_extension/getCoronaObjects-req_1.1.json",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/personen.xml",
+		"/Users/karsten/none/home/_2geschaeftlich/2011.csv",
+		"/Users/karsten/Desktop/20150121_response.json",
+		"/Users/karsten/Desktop/staedel_extension/2015-02-09_Response_w_multi_category.json",
+		"/Users/karsten/dev/tc/8.0.15/webapps/mediaplatform/META-INF/MANIFEST.MF",
+		"/Users/karsten/cubby/dev/ws/macpro01/xcode/github_clone/luke/luke.bat",
+		"/Users/karsten/cubby/sag/output_loewesrv01.txt",
+		"/Users/karsten/cubby/sag/problem.txt",
+		"/Users/karsten/Downloads/problem.txt",
+		"/Users/karsten/dev/tc/8.0.15/webapps/mediaplatform/WEB-INF/web.xml",
+		"/Users/karsten/.m2/settings.xml",
+		"/Users/karsten/dev/ext/maven/current/conf/settings.xml",
+		"/Users/karsten/cubby/dev/prf/maven/settings_2015-01-30.xml",
+		"/Users/karsten/dev/ext/luke/luke.sh",
+		"/Users/karsten/cubby/dev/ws/macpro01/xcode/github_clone/luke/luke.sh",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/karsten/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/F88F0D05-CAA7-42FA-9379-8FA2B7DB45E6/loewesrv01.RDP",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/museum.staedel.export.zip Ordner/objekte.xml",
+		"/Users/karsten/Downloads/kg_sieve.txt",
+		"/Users/karsten/none/home/sieve/TestRoundcube.sieve",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/test/resources/data_sources/museum/Staedel/museum.staedel.export.test/personen.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/test/resources/data_sources/museum/Staedel/museum.staedel.export.test/objekte.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/test/resources/data_sources/museum/Staedel/museum.staedel.export.test/medien.xml",
+		"/Users/karsten/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/D15F280D-5A51-4D2B-9912-FFFBE030DA9F/exceptionLog.txt",
+		"/Users/karsten/Desktop/exceptionLog.txt",
+		"/Users/karsten/Desktop/topicsRoot.txt",
+		"/Users/karsten/Desktop/dummy",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/museum.staedel.export/person.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/20150114_testname_staedel.xml",
+		"/usr/local/var/www/scripts.js",
+		"/Users/karsten/dev/tc/8.0.15/conf/web.xml",
+		"/Users/karsten/dev/tc/8.0.15/conf/context.xml",
+		"/Users/karsten/dev/tc/8.0.15/conf/tomcat-users.xml",
+		"/Users/karsten/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/C663EFAF-EC56-4634-9314-D71971DFF0DB/20150114_testname_staedel.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/xcode/joornl/tryout/proto/Joornl_Prototype_03_Data_Model_Editor/Podfile",
+		"/Users/karsten/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/FA1507D3-E38D-4F14-B398-3BA95ADA58F0/20150114_testname_staedel.xml",
+		"/Applications/_43_S",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/audio/readme.txt",
+		"/Users/karsten/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/640B6DC6-472A-4DD0-8A56-4E07F49C232C/20150112_Staedel.xml",
+		"/Users/karsten/none/home/.Maildir/dovecot.mailbox.log",
+		"/Users/karsten/Library/Containers/com.bohemiancoding.sketch3/Data/Library/Application Support/com.bohemiancoding.sketch3/Plugins/Content Generator Sketch Plugin/LICENSE",
+		"/Users/karsten/Library/Containers/jp.genji.Murasaki/Data/Library/Application Support/jp.genji.Murasaki/styles/Margin-white-bg.css",
+		"/Users/karsten/Downloads/.dovecot.sieve",
+		"/Applications/Murasaki.app/Contents/Resources/Add margin, white background color.css",
+		"/Applications/Murasaki.app/Contents/Resources/Add margin, Soft background color.css",
+		"/Users/karsten/none/netz/dokumente/karsten/backup/cyrus_spool/imap/user/karsten/Sent Messages/7461.",
+		"/Users/karsten/none/netz/dokumente/karsten/backup/cyrus_spool/imap/user/karsten/Sent Messages/7460.",
+		"/Users/karsten/none/netz/dokumente/karsten/backup/cyrus_spool/imap/user/karsten/Sent Messages/7459.",
+		"/Users/karsten/none/netz/dokumente/karsten/backup/cyrus_spool/imap/user/karsten/Sent Messages/7462.",
+		"/Users/karsten/none/netz/dokumente/karsten/backup/cyrus_spool/imap/user/karsten/Sent Messages/7463.",
+		"/Users/karsten/none/netz/dokumente/karsten/backup/cyrus_spool/imap/user/karsten/Sent Messages/7464.",
+		"/Users/karsten/none/netz/dokumente/karsten/backup/cyrus_spool/imap/user/karsten/Outbox/14.",
+		"/Users/karsten/Downloads/des/Keynote Bundle V4.1/Your Super Bundle Upgrade Discount.txt",
+		"/Users/karsten/Downloads/fonts-2/Open_Sans/LICENSE.txt",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/test/resources/data_sources/museum/Staedel/museum.staedel.export.test/person.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/test/resources/data_sources/museum/Staedel/museum.staedel.export.test/thesaurus.xml",
+		"/Applications/IntelliJ IDEA 14.app/Contents/bin/idea.properties",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/test/resources/data_sources/museum/Staedel/museum.staedel.export.test.zip Ordner/person.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/test/resources/data_sources/museum/Staedel/museum.staedel.export.test.zip Ordner/thesaurus.xml",
+		"/Users/karsten/Desktop/weekly.csv",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/museum.staedel.export/medien.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/test/resources/data_sources/museum/Staedel/museum.staedel.export.test.zip Ordner/objekte.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/museum.staedel.export/objekte.xml",
+		"/Volumes/GrandPerspective 1.5.1/README.txt",
+		"/Users/karsten/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/karsten/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/694EF630-1FAE-4C9C-8287-783B1F6B1325/getCoronaObjects.txt",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/pom.xml",
+		"/Users/karsten/cubby/dev/ws/macpro01/intellij/mediaplatform/mediaplatform_loader/mediaplatform-common/src/main/resources/data_sources/museum/Staedel/museum.staedel.export/thesaurus.xml"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&",
+			"Gesch?tlich",
+			"?",
+			"Gesch?tlich",
+			"&",
+			"&AOQ-",
+			"karsten@gresch.de",
+			"redirect",
+			"%26AOQ-",
+			"&AOQ-",
+			"Buhl",
+			"cornelia@gresch.de",
+			"				  ",
+			"cornelia",
+			"  ",
+			"import",
+			"package",
+			"import",
+			"7703afd3a2c6f15fae4e1ea9d5e98778c970d75f",
+			"jvm",
+			"jdk",
+			"java",
+			"jre",
+			"content.date.period",
+			"production.reason",
+			"<production.place.precision>?</production.place.precision>",
+			"production.place.precision>",
+			"production.place.precision",
+			"production.date.end.prec",
+			"preferred_label",
+			"priref>1148",
+			"Campagna",
+			"tischbein",
+			"Renoir",
+			"Kultur",
+			"Nay",
+			"association.subject",
+			"pontormo",
+			"pontorma",
+			"bronzino",
+			"il",
+			"ill",
+			"illus",
+			"priref>Pollock",
+			"priref>11507",
+			"priref>1150",
+			"priref>11507",
+			"priref>109795",
+			"35454",
+			"36440",
+			"35453",
+			"35616",
+			"36441",
+			"priref>36449",
+			"priref>36440",
+			"priref>16235",
+			"priref>7257",
+			"priref>10312",
+			"priref>7750",
+			"priref>9011",
+			"7749",
+			"priref>102052",
+			"priref>1213",
+			"priref>7030",
+			"iconclass",
+			"priref>11926",
+			"priref>9011",
+			"priref>7749",
+			"priref>703",
+			" Z</object",
+			".png</object",
+			"png</object",
+			"priref>9660",
+			"102044",
+			"priref>102044",
+			"association.object.object_number>1148",
+			"priref>1148",
+			"object_number>DZF",
+			"acquisition",
+			"iconclass.uri",
+			"iconclass.notation",
+			"biography",
+			"inscription.type",
+			"title.type",
+			"\"761\"",
+			"feuerbach",
+			"date.start>",
+			"193-",
+			"creator.qualifier",
+			"physical_desc",
+			"<creator.role",
+			"<title.transl>",
+			"<title.type>",
+			"title.lan",
+			">Person<",
+			"priref>6868",
+			"administrat",
+			"object_number",
+			"<record>",
+			"biography",
+			"15076",
+			"  content.person.name",
+			"depicted",
+			".mp3",
+			"  ",
+			"16065",
+			"\\n",
+			"new line",
+			"\\n",
+			"  ",
+			"lifespan",
+			"atmosphere",
+			"freude",
+			"object_number",
+			"biography",
+			"creator",
+			"object_number",
+			"object",
+			"object_number",
+			"object",
+			"number",
+			"persons",
+			"193.26.192.221",
+			"HOST_DEV",
+			">\n",
+			" <",
+			"14993",
+			"creator"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Geschäftlich",
+			"Gesch?tlich",
+			"ä",
+			"Geschäftlich",
+			"Geschätlich",
+			"ä",
+			"  ",
+			"",
+			"localhost:8080",
+			">",
+			"<",
+			"\"from\",\"From\",\"to\",\"x-original-to\",\"To\",\"Von\",\"von\",\"an\",\"An\"",
+			"\"to\",\"x-original-to\",\"To\",\"from\",\"From\",\"von\",\"Von\",\"an\",\"An\"",
+			"\"to\",\"x-original-to\",\"To\",\"cc\",\"CC\",\"Reply-To\",\"reply-to\",\"an\",\"An\"",
+			"allof",
+			"",
+			"ä",
+			"fileinto \"INBOX/",
+			"",
+			" ",
+			"",
+			"#",
+			"gnd:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/Typescript.sublime-build",
+	"project": "webdesign.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"mediaplatform-common/.idea/.name"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
